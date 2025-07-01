@@ -35,6 +35,7 @@
 
 - 脚手架: umi
 - 环境要求：node v18.x
+- src/config/config.ts： 配置云信的appkey和secret
 
 ### 开发环境启动
 
